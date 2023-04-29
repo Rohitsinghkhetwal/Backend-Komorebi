@@ -1,1 +1,0 @@
-{"version":3,"file":"ProductRoute.js","sourceRoot":"","sources":["../../src/routes/ProductRoute.ts"],"names":[],"mappings":";;;;;AAAA,oDAA8B;AAC9B,sEAA8F;AAE9F,IAAM,aAAa,GAAG,iBAAO,CAAC,MAAM,EAAE,CAAC;AAEvC,aAAa,CAAC,IAAI,CAAC,GAAG,EAAE,iCAAa,CAAC,CAAC;AACvC,aAAa,CAAC,GAAG,CAAC,QAAQ,EAAE,+BAAW,CAAC,CAAA;AACxC,aAAa,CAAC,GAAG,CAAC,MAAM,EAAE,kCAAc,CAAC,CAAA;AAEzC,kBAAe,aAAa,CAAC"}
